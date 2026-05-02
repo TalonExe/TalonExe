@@ -53,8 +53,6 @@
   </picture>
 </p>
 
-> ⚠️ The snake requires a one-time GitHub Actions setup — see instructions below.
-
 ---
 
 ## 🛠️ Tech Stack
